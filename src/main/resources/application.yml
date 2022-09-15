@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.yandex.ru
+    username: for.house.club@yandex.ru
+    password: 
+    port: 465
+    protocol: smtps
+    sender:
+      text: For house Club
+
+mail:
+  debug: true
